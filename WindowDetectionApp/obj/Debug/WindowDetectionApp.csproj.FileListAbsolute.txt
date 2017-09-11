@@ -1,0 +1,11 @@
+c:\users\yigit\documents\visual studio 2015\Projects\WindowDetectionApp\WindowDetectionApp\bin\Debug\WindowDetectionApp.exe.config
+c:\users\yigit\documents\visual studio 2015\Projects\WindowDetectionApp\WindowDetectionApp\bin\Debug\WindowDetectionApp.exe
+c:\users\yigit\documents\visual studio 2015\Projects\WindowDetectionApp\WindowDetectionApp\bin\Debug\WindowDetectionApp.pdb
+c:\users\yigit\documents\visual studio 2015\Projects\WindowDetectionApp\WindowDetectionApp\obj\Debug\WindowDetectionApp.csprojResolveAssemblyReference.cache
+c:\users\yigit\documents\visual studio 2015\Projects\WindowDetectionApp\WindowDetectionApp\obj\Debug\WindowDetectionApp.WindowDetectionForm.resources
+c:\users\yigit\documents\visual studio 2015\Projects\WindowDetectionApp\WindowDetectionApp\obj\Debug\WindowDetectionApp.Properties.Resources.resources
+c:\users\yigit\documents\visual studio 2015\Projects\WindowDetectionApp\WindowDetectionApp\obj\Debug\WindowDetectionApp.csproj.GenerateResource.Cache
+c:\users\yigit\documents\visual studio 2015\Projects\WindowDetectionApp\WindowDetectionApp\obj\Debug\WindowDetectionApp.exe
+c:\users\yigit\documents\visual studio 2015\Projects\WindowDetectionApp\WindowDetectionApp\obj\Debug\WindowDetectionApp.pdb
+c:\users\yigit\documents\visual studio 2015\Projects\WindowDetectionApp\WindowDetectionApp\bin\Debug\WindowDetectionBusinessLayer.dll
+c:\users\yigit\documents\visual studio 2015\Projects\WindowDetectionApp\WindowDetectionApp\bin\Debug\WindowDetectionBusinessLayer.pdb
